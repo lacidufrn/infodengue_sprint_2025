@@ -160,4 +160,25 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+
+# added by lacidufrn
+
 Demo Notebooks/dengue.csv.gz
+.Rproj.user
+Resultados_SprintDengue.RData
+*.RData
+/data
+/Demo Notebooks
+/img
+pyproject.toml
+test.R
+99_submissao_bk.R
+99_submissao.R
+
+.Rhistory
+.DS_Store
+referencias
+/resultados_antigos
+
